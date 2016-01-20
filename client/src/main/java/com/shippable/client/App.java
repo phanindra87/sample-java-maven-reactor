@@ -1,7 +1,7 @@
 package com.shippable.client;
 
 import com.shippable.common.MeaningOfEverythingService;
-//Including this line for testing automated build in jenkins
+//Including this line for testing automated build in jenkins and IntelliJ
 public class App {
   private MeaningOfEverythingService service;
 
