@@ -1,7 +1,7 @@
 package com.shippable.client;
 
 import com.shippable.common.MeaningOfEverythingService;
-
+//Included line to modify for pushing changes and testing CI
 public class Main {
   public static void main () {
     MeaningOfEverythingService service = new MeaningOfEverythingService();
