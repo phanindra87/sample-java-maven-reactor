@@ -6,7 +6,7 @@ public class Main {
   public static void main () {
     MeaningOfEverythingService service = new MeaningOfEverythingService();
     App app = new App(service);
-    //Output
+    //Output of the app
     System.out.println(app.tell());//print app.tell()
   }
 }
