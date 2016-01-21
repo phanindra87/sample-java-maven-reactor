@@ -10,6 +10,6 @@ public class App {
   }
 
 	public String tell() {
-		return "The answer is : " + service.getMeaningofEverything();
+		return "The answer is " + service.getMeaningofEverything();
 	}
 }
