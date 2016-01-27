@@ -8,7 +8,7 @@ public class App {
   public App(MeaningOfEverythingService service) {
     this.service = service;
   }
-
+//Including this line for testing automated build in TeamCity
 	public String tell() {
 		return "The answer is " + service.getMeaningofEverything();
 	}
