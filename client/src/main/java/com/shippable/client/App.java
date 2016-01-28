@@ -10,6 +10,6 @@ public class App {
   }
 //Including this line for testing automated build in TeamCity
 	public String tell() {
-		return "The answer is " + service.getMeaningofEverything();
+		return "The answer is :" + service.getMeaningofEverything();//Modified to test failed test in Team City
 	}
 }
