@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20151230</FitNesseVersion>
+  <rootPath>FrontPage.SampleSuite</rootPath>
+  <pageHistoryReference>
+    <name>FrontPage.SampleSuite.AdditionTest</name>
+    <date>2016-03-04T17:12:01+05:30</date>
+    <pageHistoryLink>FrontPage.SampleSuite.AdditionTest?pageHistory&amp;resultDate=20160304171201</pageHistoryLink>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>7</exceptions>
+    </counts>
+    <runTimeInMillis>133</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>FrontPage.SampleSuite.ProductTest</name>
+    <date>2016-03-04T17:12:01+05:30</date>
+    <pageHistoryLink>FrontPage.SampleSuite.ProductTest?pageHistory&amp;resultDate=20160304171201</pageHistoryLink>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>7</exceptions>
+    </counts>
+    <runTimeInMillis>35</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>"C:\Program Files (x86)\Java\jdk1.8.0_66\bin\java" -cp fitnesse-standalone.jar;C:\Users\phteluku\IdeaProjects\SimpleCalculator\out\production\SimpleCalculator fitnesse.slim.SlimService 8085</command>
+    <exitCode>0</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>2</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>978</totalRunTimeInMillis>
+</suiteResults>
+
